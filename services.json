@@ -1,18 +1,77 @@
 [
-{"name":"Welding Works","description":"All types of welding services","price":"Contact for price"},
-{"name":"Wooden Works","description":"Furniture repair and wood fitting","price":"Contact for price"},
-{"name":"Cutting Works","description":"Metal and iron cutting","price":"Contact for price"},
-{"name":"Paint Works","description":"All types of painting","price":"Contact for price"},
-{"name":"Plumbing Works","description":"Pipe repair and bathroom fitting","price":"Contact for price"},
-{"name":"Cooler Fitting","description":"Cooler installation and repair","price":"Contact for price"},
-{"name":"Light Fitting","description":"Electrical light fitting","price":"Contact for price"},
-{"name":"Scrap and Raw Material","description":"Scrap buying and selling","price":"Contact for price"},
-{"name":"4 Wheeler Repair","description":"Vehicle repair services","price":"Contact for price"},
-{"name":"Unused Vehicle Sale","description":"Old vehicle buying and selling","price":"Contact for price"},
-{"name":"Mosquito Net Fitting","description":"Door and bed mosquito nets","price":"Contact for price"},
-{"name":"Green Net Fitting","description":"Shade net installation","price":"Contact for price"},
-{"name":"Water Tank Cleaning","description":"Complete tank cleaning","price":"Contact for price"},
-{"name":"Solar Panel Cleaning","description":"Solar maintenance","price":"Contact for price"},
-{"name":"Inverter Battery","description":"New inverter battery available","price":"Contact for price"}
-{"name":"CCTV","description":"New Camera available & Installation","price":"Contact for price"}
+ {
+  "name": "Belding Works",
+  "description": "All types of welding and metal fixing services",
+  "price": "Contact for price"
+ },
+ {
+  "name": "Wooden Works",
+  "description": "Furniture repair, wooden fitting and custom wood work",
+  "price": "Contact for price"
+ },
+ {
+  "name": "Cutting Works",
+  "description": "Iron, metal and material cutting services",
+  "price": "Contact for price"
+ },
+ {
+  "name": "All Types of Paint Works",
+  "description": "House painting, wall painting and metal painting",
+  "price": "Contact for price"
+ },
+ {
+  "name": "Plumbing Works",
+  "description": "Pipe repair, bathroom fitting and water connection services",
+  "price": "Contact for price"
+ },
+ {
+  "name": "Cooler Fitting",
+  "description": "Cooler installation, repair and seasonal fitting",
+  "price": "Contact for price"
+ },
+ {
+  "name": "Light Fitting",
+  "description": "Home electrical light fitting and wiring services",
+  "price": "Contact for price"
+ },
+ {
+  "name": "Scrap and Raw Material",
+  "description": "Buying and selling of scrap and raw materials",
+  "price": "Contact for price"
+ },
+ {
+  "name": "4 Wheeler Repairing",
+  "description": "All types of four wheeler vehicle repair services",
+  "price": "Contact for price"
+ },
+ {
+  "name": "Unused Vehicles Sale",
+  "description": "Sale and purchase of unused or old vehicles",
+  "price": "Contact for price"
+ },
+ {
+  "name": "Mosquito Net Installation",
+  "description": "New double bed mosquito net and door mosquito net purchase and fitting",
+  "price": "Contact for price"
+ },
+ {
+  "name": "Green Net Fitting",
+  "description": "Green shade net installation for terrace and farming use",
+  "price": "Contact for price"
+ },
+ {
+  "name": "Water Tank Cleaning",
+  "description": "Complete water tank cleaning service",
+  "price": "Contact for price"
+ },
+ {
+  "name": "Solar Panel Cleaning",
+  "description": "Solar panel cleaning and maintenance services",
+  "price": "Contact for price"
+ },
+ {
+  "name": "New Inverter Battery",
+  "description": "New inverter battery available with installation",
+  "price": "Contact for price"
+ }
 ]
