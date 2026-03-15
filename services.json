@@ -73,5 +73,10 @@
   "name": "New Inverter Battery",
   "description": "New inverter battery available with installation",
   "price": "Contact for price"
+ },
+ {
+  "name": "CCTV Services",
+  "description": "New Camera available with installation",
+  "price": "Contact for price"
  }
 ]
